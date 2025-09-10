@@ -1,30 +1,38 @@
-🗡️ ConsoleRPG
-A text-based RPG game built in C# where players follow a story, fight creatures, and collect items.
+# 🗡️ RPG Adventure Game
 
-📌 Overview
-ConsoleRPG is a console game where you:
-- Enter your name and follow a story-driven adventure
-- Fight enemies like goblins, trolls, mages, and dragons
-- Collect items like swords, potions, and magical artifacts
-- Make simple choices that affect the dialogue
+A text-based RPG game built in C# where players follow a story, fight enemies and collect items to save their hometown.
 
-✨ Key Features
-- **Story-driven gameplay:** Follow a linear narrative with dialogue and events  
-- **Turn-based combat:** Fight enemies using basic attack mechanics  
-- **Item collection:** Acquire weapons, potions, and magical items  
-- **Cinematic text display:** Slow text output enhances immersion  
+## Description
+This is a text-based RPG adventure game built in C#. Take on the role of a hero tasked with saving their village and defeating enemies on their journey to obtain a special item. The game features interactive dialogue, turn-based combat and inventory management. 
 
-🔧 Tech Stack & Tools
-- **C#** – Main programming language  
-- **.NET Console Application** – Runs the game in the terminal  
-- **Visual Studio** – Recommended for development  
+## Features
+- **Character Interaction**: Engage in dialogues with NPCs to learn about the story and make choices.
+- **Health & Mana Management**: Track your health and mana points
+- **Combat System**: A menu to fight creatures like goblins, trolls and mages using weapons, spells and potions.
+- **Inventory Management**: Collect items like new spells and magical artifacts to aid in battles.
+- **Progressive Storyline**: Decisions affect the flow of the story, from resting to fighting bosses.
+- **Visual Effects**: ASCII art is used to enhance the game experience.
 
-⚙️ Prerequisites
-- Windows, Mac, or Linux with .NET installed  
-- Visual Studio (optional but recommended)  
+## How to Play
+1. Run the game using a C#.
+2. Enter your character name when prompted.
+3. Follow the story and choose dialogue options when asked.
+4. Fight enemies using the menu system with your range of attacks and items.
+5. Make strategic decisions to survive and complete your quest.
 
-🚀 Installation
-Clone the repository:
-```bash
-git clone <repository-url>
-cd ConsoleRPG
+## Technologies Used
+
+- C#
+- .NET Console Application
+- Visual Studio
+
+## Installation
+1. Clone or download the repository.
+2. Open the project in Visual Studio or your preferred C# IDE.
+3. Build and run the solution.
+
+## Author
+
+Shah Habib  
+GitHub: @habib1712  
+LinkedIn: https://www.linkedin.com/in/shah-h/
